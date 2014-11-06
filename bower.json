@@ -1,0 +1,22 @@
+{
+  "name": "proto-bp",
+  "version": "0.0.1",
+  "authors": [
+    "Volodymy Pavlyuk <vpavlyuk@spredfast.com>"
+  ],
+  "description": "Boilerplate for rapid prototyping using Angular and SASS/Compass",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1",
+    "foundation": "~5.4.7",
+    "angular-foundation": "~0.4.0"
+  }
+}
