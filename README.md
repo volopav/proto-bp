@@ -1,0 +1,1 @@
+This is simple boilerplate for rapid prototyping of web applications.
