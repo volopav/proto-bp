@@ -1,4 +1,4 @@
-This is simple boilerplate for rapid prototyping of web applications.
+This is a simple boilerplate for rapid prototyping of web applications.
 
 ***
 
